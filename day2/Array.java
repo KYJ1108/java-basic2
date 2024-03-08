@@ -34,7 +34,7 @@ public class Array {
         System.out.println(num[4]);
         System.out.println(num[5]);
         System.out.println(num[6]);
-        //System.out.println(num[7]); // 없는 인덱스를 오류남.
+        //System.out.println(num[7]); // 없는 인덱스는 오류남.
 
         // 모든 배열은 length라는 길이 정보를 갖고있다.
         System.out.println(num.length);
